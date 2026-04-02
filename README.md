@@ -1,6 +1,6 @@
 # Create README.md file with the provided content
 
-content = """# 💧 Water Potability Prediction using Machine Learning
+ ## Water💧 Potability Prediction using Machine Learning
 
 ## 📌 Project Overview
 This project aims to predict whether water is **safe for drinking (potable)** or **unsafe (non-potable)** using Machine Learning techniques.  
