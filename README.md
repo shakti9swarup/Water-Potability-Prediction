@@ -101,6 +101,14 @@ The dataset contains the following important **water quality parameters**:
 
 ---
 
+## Output
+<img width="1140" height="751" alt="Screenshot 2026-04-02 100039" src="https://github.com/user-attachments/assets/6472f10f-0b19-4415-9015-f2d7d368e4cd" />
+<img width="1801" height="723" alt="Screenshot 2026-04-02 095927" src="https://github.com/user-attachments/assets/4ce8c17c-17f2-4d67-8673-6af01d828da1" />
+<img width="1140" height="751" alt="Screenshot 2026-04-02 100039" src="https://github.com/user-attachments/assets/8d66ae96-e85e-4202-9e6b-2508f48fe37d" />
+<img width="1083" height="876" alt="Screenshot 2026-04-02 100025" src="https://github.com/user-attachments/assets/699d71a8-0563-4369-b7f4-7254038a6c8b" />
+<img width="679" height="679" alt="Screenshot 2026-04-02 100257" src="https://github.com/user-attachments/assets/baedb905-1743-4a47-bcc9-0c4b41988f54" />
+
+
 ## 📌 Conclusion
 This project successfully predicts **water potability** using Machine Learning techniques.  
 It helps in identifying whether water is **safe for consumption** based on quality parameters.
